@@ -37,6 +37,11 @@ a{
     list-style-type: lower-alpha;
 }
 
+ol{
+    padding-left:0;
+}
+
 ol li{
-    padding-top:10px;
+    margin:10px 0 0 15px;
+    padding-left:15px;
 }
