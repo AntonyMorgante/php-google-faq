@@ -68,6 +68,21 @@ $faq=[
     <title>Document</title>
 </head>
 <body>
+    <header>
+        <div class="row">
+            <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Google_logo_%282010-2013%29.svg/800px-Google_logo_%282010-2013%29.svg.png" alt="">
+            <h1>Privacy e termini</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Introduzione</a></li>
+                <li><a href="#">Norme sulla privacy</a></li>
+                <li><a href="#">Termini di servizio</a></li>
+                <li><a href="#">Tecnologie</a></li>
+                <li><a class="current" href="#">Domande frequenti</a></li>
+            </ul>
+        </nav>
+    </header>
     <main>
         <div class="container">
             <section id="faq">
